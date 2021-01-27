@@ -6,5 +6,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="CodeSnippets"/>
+	<classpathentry kind="src" path="Codebat"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
